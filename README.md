@@ -1,3 +1,3 @@
 # AWS_Essentials
 
-Anotações pertinentes sobre a estudos para certificação **AWS Cloud Practitioner Essentials**
+Anotações de estudo para certificação **AWS Cloud Practitioner Essentials**
