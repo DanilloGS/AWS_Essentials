@@ -73,4 +73,3 @@ Serviço que ajuda a provisionar ambientes baseados no EC2. Não é necessário 
  
 Cria um ambiente escrevendo linhas de código em vez de utilizar o Management Console para provisionar recursos individualmente. Define os recursos do AWS usando um JSON ou YAML. Com o CloudFormation o cliente só se preocupa em definir o que for desejado e o AWS faz o resto.
  
-
