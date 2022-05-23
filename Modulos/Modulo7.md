@@ -34,5 +34,3 @@ O Trust Advisor compara suas descobertas com as práticas recomendadas da AWS em
 - Segurança
 - tolerância a falhas
 - Limites de serviço
- 
-
